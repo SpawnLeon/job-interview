@@ -45,3 +45,6 @@
 
 - Используйте Vue
 - Работоспособность в актуальной версии Google Chrome
+
+#### Решение
+https://github.com/SpawnLeon/job-interview/tree/master/task-3/solution
